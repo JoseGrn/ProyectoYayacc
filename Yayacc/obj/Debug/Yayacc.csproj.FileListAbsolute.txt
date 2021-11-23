@@ -1,0 +1,7 @@
+C:\Users\josed\source\repos\Yayacc\Yayacc\bin\Debug\Yayacc.exe.config
+C:\Users\josed\source\repos\Yayacc\Yayacc\bin\Debug\Yayacc.exe
+C:\Users\josed\source\repos\Yayacc\Yayacc\bin\Debug\Yayacc.pdb
+C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.csprojAssemblyReference.cache
+C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.csproj.CoreCompileInputs.cache
+C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.exe
+C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.pdb
