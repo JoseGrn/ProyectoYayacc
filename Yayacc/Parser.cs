@@ -133,6 +133,7 @@ namespace Yayacc
             {
                 Grammar grammar = new Grammar(terminales, variables, noTerminalInicial, reglas);
                 list = grammar.Guardar();
+                grammar.imprimir();
                 return list;
             }
             else if (_token.Tag == "Variable")

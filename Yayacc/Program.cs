@@ -18,7 +18,9 @@ namespace Yayacc
 
             if (Result != null)
             {
+
                 grafo.Evaluacion(Result);
+                grafo.Imprimir();
                 while (decision1)
                 {
                     Console.WriteLine("Ingrese una prueba para su gramatica: ");

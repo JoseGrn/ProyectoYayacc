@@ -5,3 +5,10 @@ C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.csprojAssemblyReferen
 C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.csproj.CoreCompileInputs.cache
 C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.exe
 C:\Users\josed\source\repos\Yayacc\Yayacc\obj\Debug\Yayacc.pdb
+C:\Users\maria\OneDrive\Escritorio\URL\SEGUNDO CICLO 2021\compis\proyectof3\ProyectoYayacc\Yayacc\bin\Debug\Yayacc.exe.config
+C:\Users\maria\OneDrive\Escritorio\URL\SEGUNDO CICLO 2021\compis\proyectof3\ProyectoYayacc\Yayacc\bin\Debug\Yayacc.exe
+C:\Users\maria\OneDrive\Escritorio\URL\SEGUNDO CICLO 2021\compis\proyectof3\ProyectoYayacc\Yayacc\bin\Debug\Yayacc.pdb
+C:\Users\maria\OneDrive\Escritorio\URL\SEGUNDO CICLO 2021\compis\proyectof3\ProyectoYayacc\Yayacc\obj\Debug\Yayacc.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\URL\SEGUNDO CICLO 2021\compis\proyectof3\ProyectoYayacc\Yayacc\obj\Debug\Yayacc.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Escritorio\URL\SEGUNDO CICLO 2021\compis\proyectof3\ProyectoYayacc\Yayacc\obj\Debug\Yayacc.exe
+C:\Users\maria\OneDrive\Escritorio\URL\SEGUNDO CICLO 2021\compis\proyectof3\ProyectoYayacc\Yayacc\obj\Debug\Yayacc.pdb

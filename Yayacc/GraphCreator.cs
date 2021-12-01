@@ -31,7 +31,20 @@ namespace Yayacc
             CreacionGrafo();
             return Grafo;
         }
-
+        public void Imprimir()
+		{
+            int i = 1;
+			foreach (var item in Grafo) //se imprime cada estado 
+                //NOTA: no se imprime el puntito porque en consola no se reconoce.
+			{
+                Console.WriteLine("Estado: " + i);
+                i++;
+				foreach (var item2 in item.RulesList)
+				{
+                    Console.WriteLine(item2);
+				}
+			}
+		}
         public void LlenadoLista()
         {
             foreach (var item in listas.R)
